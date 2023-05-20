@@ -3,6 +3,7 @@
   <NuxtLink to="/about">About</NuxtLink>
   <div>Contents of Home page</div>
   <div>22222</div>
+  <img src="../assets/images/moreArticle-02.jpg" />
 </template>
 
 <style lang="scss" scoped>
