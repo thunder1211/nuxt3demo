@@ -2,6 +2,7 @@
   <NuxtLink to="/">Home</NuxtLink>
   <NuxtLink to="/about">About</NuxtLink>
   <div>Contents of Home page</div>
+  <div>22222</div>
 </template>
 
 <style lang="scss" scoped>
